@@ -13,6 +13,4 @@ GCN Node Classification Ablation Studies
 - This will runing all of my
 
 ### Data Output Result:
-![Cora Convergence Plot](stage5/result/stage_5_result/training_curvescora_convergence.png)
-![Cora Convergence Plot](result/stage_5_result/cora_convergence.png)
-![Cora Convergence Plot](result/stage_5_result/cora_convergence.png)
+- the plot results will save into the result/stage_5_result
