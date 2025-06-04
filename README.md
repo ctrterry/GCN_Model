@@ -17,11 +17,11 @@ GCN Node Classification Ablation Studies
 
 ### The result explain:
 - Based on the GCN research paper show that the best model accuracy can be reach to:  <br>
-- Method             Citeseer    Cora     Pubmed   \\ 
--GCN (this paper)    70.3 (7s)  81.5 (4s) 79.0 (38s)
-- GCN (rand. splits) 67.9 ±0.5  80.1 ±0.5 78.9 ±0.7
+- Method             Citeseer    Cora     Pubmed     <br>
+-GCN (this paper)    70.3 (7s)  81.5 (4s) 79.0 (38s)  <br>
+- GCN (rand. splits) 67.9 ±0.5  80.1 ±0.5 78.9 ±0.7   <br>
 
-- However, Our Model Accuracy can reach to the GCN Paper's Accuracy. Hence, which indicate our model can be detective the GCN very well.
-- Such as, 
-- Method          Citeseer    Cora     Pubmed
-- GCN              0.7020     0.7910   0.7720
+- However, Our Model Accuracy can reach to the GCN Paper's Accuracy. Hence, which indicate our model can be detective the GCN very well. <br>
+- Such as,   <br>
+- Method          Citeseer    Cora     Pubmed <br>
+- GCN              0.7020     0.7910   0.7720 <br>
